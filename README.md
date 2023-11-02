@@ -8,7 +8,7 @@ This repository contains code and resources for a water quality prediction proje
 - Diverse dataset covering essential water quality parameters.
 - Analysis and visualization tools for data exploration.
 - Machine learning models for water potability prediction.
-- Clear and intuitive code structure for easy understanding and collaboration.
+- Clear and intuitive code structure for easy understanding.
 
 
 **Dataset**
